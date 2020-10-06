@@ -1,0 +1,3 @@
+include ':stubLibrary'
+include ':app'
+rootProject.name = "ViewPagerStub"
